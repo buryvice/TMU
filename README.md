@@ -1,4 +1,4 @@
-#  UTM
+#  TMU
 [![Build](https://github.com/utmapp/UTM/actions/workflows/build.yml/badge.svg?branch=main&event=push)][1]
 
 
